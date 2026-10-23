@@ -6,7 +6,7 @@ cask "passtunnel" do
   url "https://github.com/passtunnel/passtunnel/releases/download/v#{version}/PassTunnel-#{version}.dmg"
   name "PassTunnel"
   desc "OpenVPN and FortiGate client that fills in one-time codes"
-  homepage "https://github.com/passtunnel/passtunnel"
+  homepage "https://passtunnel.github.io/"
 
   livecheck do
     url :url
